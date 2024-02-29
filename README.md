@@ -1,5 +1,7 @@
 Nature Action Lab
 
+
+
 What we do?
 
 1.Communication 
@@ -9,6 +11,7 @@ What we do?
 3.LLMs: your adviser on nature and biodiversity
 
 
+
 What themes do we cover?
 
 1.Biodiversity finance
@@ -16,6 +19,7 @@ What themes do we cover?
 2.Biodiversity tech
 
 3.Biodiversity and infrastructure
+
 
 
 Relavant resources:
